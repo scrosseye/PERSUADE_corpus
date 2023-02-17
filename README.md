@@ -1,4 +1,5 @@
-# PERSUADE_corpus
+# PERSUADE corpus 1.0
+
 This is the repository for The Persuasive Essays for Rating, Selecting, and Understanding Argumentative and Discourse Elements (PERSUADE) corpus which contains over 280,000 discourse annotations for over 25,000 argumentative essays. 
 
 The PERSUADE corpus formed the core of the Feedback Prize hosted by Kaggle in the winter of 2021-2022 (https://www.kaggle.com/c/feedback-prize-2021)
