@@ -42,3 +42,5 @@ The annotation rubric was developed to identify and evaluate discourse elements 
 **Concluding Summary.** A concluding statement that restates the position and claims
 
 **Unannotated.** Segments that were not discourse elements
+
+The data is provided under a CC BY-NC-SA 4.0 DEED Attribution-NonCommercial-ShareAlike 4.0 International license (https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
