@@ -1,11 +1,12 @@
 # PERSUADE corpus 1.0
 
-This is the repository for The Persuasive Essays for Rating, Selecting, and Understanding Argumentative and Discourse Elements (PERSUADE) corpus which contains over 280,000 discourse annotations for over 25,000 argumentative essays. 
+This **was** the repository for The Persuasive Essays for Rating, Selecting, and Understanding Argumentative and Discourse Elements (PERSUADE) corpus which contains over 280,000 discourse annotations for over 25,000 argumentative essays. 
+
+**Please see the dataset hosted under the [Persuade 2.0](https://github.com/scrosseye/persuade_corpus_2.0) page for access to the entire dataset.**
 
 The PERSUADE corpus formed the core of the Feedback Prize hosted by Kaggle in the winter of 2021-2022 (https://www.kaggle.com/c/feedback-prize-2021)
 
 The corpus is contained in a single .csv file that is machine readable and able to opened in common spreadsheet software. The corpus contains the following columns:
-
 
 **essay_id_comp:** The essay ID	
 
@@ -42,5 +43,9 @@ The annotation rubric was developed to identify and evaluate discourse elements 
 **Concluding Summary.** A concluding statement that restates the position and claims
 
 **Unannotated.** Segments that were not discourse elements
+
+The initial publication for PERSUADE 1.0 is available [here](https://www.sciencedirect.com/science/article/pii/S1075293522000630). The reference for the publication is 
+
+Crossley, S. A, Baffour, P., Tian, Y., Picou, A., Benner, M., & Boser., U. (2022). The Persuasive Essays for Rating, Selecting, and Understanding Argumentative and Discourse Elements (PERSUADE) corpus 1.0. Assessing Writing, 54.
 
 The data is provided under a CC BY-NC-SA 4.0 DEED Attribution-NonCommercial-ShareAlike 4.0 International license (https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
